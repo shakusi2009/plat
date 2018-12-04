@@ -1,0 +1,14 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# 依赖
+node_modules/
+
+# vscode config dir
+.vscode/
+
+# Editors and IDEs
+.idea
+plat.iml
+
+# Misc
+.DS_Store
